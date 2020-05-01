@@ -74,13 +74,13 @@ h6 {
 }
 .shop {
   position: relative;
-  height: 320px;
+  height: 240px;
   width: 100%;
   overflow: hidden;
 }
 .shop img {
   /* width: 100%; */
-  height: 270px;
+  height: 220px;
   object-fit: cover;
   overflow: hidden;
 }
