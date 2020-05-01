@@ -1,0 +1,86 @@
+html {
+    font-family: 'Rubik', 'Nunito', sans-serif;
+}
+
+body {
+    background-color: #FFFFFF;
+    font-family: 'Rubik', 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    color: #000000;
+    overflow-x: hidden;
+}
+
+* {
+    /* font-family: 'Rubik', 'Nunito', sans-serif; */
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Rubik', 'Nunito', sans-serif;
+}
+
+*::placeholder {
+    font-family: 'Rubik', 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    color: #A5A5A5 !important;
+}
+
+
+.home-slider .slider-home-banner img {
+    height: 341px;
+}
+
+.home-category>li>a {
+    display: block;
+    padding: 2px;
+    color: #000000;
+}
+
+.home-category>li>a:hover {
+    color: #000000;
+}
+
+.home-slider .carousel-item img {
+    width: 100%;
+}
+
+.sm-ads-widget img {
+    width: 100%;
+    height: min-content;
+}
+.desc {
+    display: inline-grid;
+    font-size: x-small;
+    bottom: 10px;
+    position: absolute;
+    /* top: auto; */
+}
+.desc-1 {
+    display: inline-grid;
+    font-size: x-small;
+    bottom: 10px;
+    /* position: absolute; */
+    /* top: auto; */
+}
+.desc p {
+    font-size:xx-small;
+}
+.shop {
+  position: relative;
+  height: 320px;
+  width: 100%;
+  overflow: hidden;
+}
+.shop img {
+  /* width: 100%; */
+  height: 270px;
+  object-fit: cover;
+  overflow: hidden;
+}
